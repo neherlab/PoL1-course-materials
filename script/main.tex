@@ -1,0 +1,86 @@
+\documentclass[a4]{book}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+\usepackage{listings}
+\usepackage{minted}
+\usepackage{natbib}
+
+\bibliographystyle{unsrtnat}
+
+\author{Richard Neher\\Biozentrum, University of Basel}
+\title{Physics of Life I}
+
+\graphicspath{{figures/}}
+
+\begin{document}
+\maketitle
+
+\chapter*{Preamble}
+
+The laws of physics govern living matter as much as they govern inanimate matter.
+However, it is often hard to see how physical principles enter in biology because living matter is constantly in flux, heterogeneous, and never at equilibrium.
+Nevertheless, physics can elucidate many seemingly complex phenomena in biology.
+
+In this course -- co-taught with Sebastian Hiller -- we will attempt to how show how biology can not only be described in terms of ``parts lists'' and ``cartoon''-like sketches, but understood in terms of quantitative and predictive relationships.
+Such quantitative methods are becoming more and more important in modern biology and require a solid mathematical toolbox and often programming skills.
+I encourage you to take a close look again at:
+\begin{itemize}
+	\item Mathematics: your high-school math and ``Mathematische Methoden I\&II''
+	\item Physics: Mechanics, fluid dynamics, and thermodynamics from ``Physics I''
+	\item Programming: python note-books and basic programming as you learned in programming and computational courses in the first year.
+\end{itemize}
+
+{\bf Scriptum:}
+The scriptum was first written for previous courses and I will update them as the semester progresses.
+So expect chapters to change slightly over the course of the semester -- some parts will be added, others removed.
+
+I am providing these lecture notes for your convenience.
+Even though they look polished (typeset with LaTex), they are just notes.
+There will be typos, errors, and incomplete sections.
+I hope to develop them over the years to come and encourage you to read them with a critical eye.
+Be critical, report potential errors, and give feed-back on form and content.
+
+\section*{Suggested reading}
+There is no one book covers the material planned for this course.
+But the following books touch on the subject and are recommended:
+\begin{itemize}
+	\item \href{https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjd4-XS6tfkAhVI2qQKHSBoDFUQFjAAegQIAhAB&url=https%3A%2F%2Fwww.crcpress.com%2FPhysical-Biology-of-the-Cell%2FPhillips-Kondev-Theriot-Garcia%2Fp%2Fbook%2F9780815344506&usg=AOvVaw1S0mgI830cAwjb4G48vKPF}{\bf Physical Biology of the Cell} by Hernan Garcia, Jane Kondev, Julie Theriot, and Rob Phillips.
+	\item \href{http://book.bionumbers.org/}{\bf Cell Biology by the Numbers} by Rob Phillips and Ron Milo.
+	\item \href{https://press.princeton.edu/titles/112.html}{\bf Random Walks in Biology} by Howard Berg
+\end{itemize}
+
+% scales
+\input{chapter_1}
+
+\input{diffeq}
+
+\input{generegulation}
+
+% random walks and diffusion
+\input{RW_diffusion}
+
+\input{generegulation_inspace}
+
+% liquid-liquid phase transitions
+\input{liquid_liquid_phase_transitions}
+
+% Polymers
+\input{polymers}
+
+% accuracy
+\input{proofreading}
+
+\bibliography{bib}
+\end{document}
+
+
+
+% chromatin organization
+\input{chapter_4}
+
+% gene regulation in space and time
+\input{chapter_5}
+
+
+
