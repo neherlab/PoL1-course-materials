@@ -12,10 +12,10 @@ The main topics we touch on are
  - Membrane-less organelles and liquid-liquid phase transitions
 
 ## Lecture notes
-The lecture notes are typeset in Latex. A rendered PDF if available here in this repository at [lecture-nodes.pdf](lecture-nodes.pdf).
+The lecture notes are typeset in Latex. A rendered PDF if available here in this repository at [lecture-notes.pdf](lecture-notes.pdf).
 
 ## Notebooks
-Much of the course material is provided in the form of Jupyter notebooks. These notebooks are in the `notebooks` directory and can be viewed and executed in jupyter.
+Much of the course material is provided in the form of Jupyter notebooks. These notebooks are in the `notebooks` directory and can be viewed and executed in [jupyter](https://jupyter.org/).
 
 
 ## Recommended online resources
