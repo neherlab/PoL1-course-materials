@@ -19,12 +19,12 @@ Much of the course material is provided in the form of Jupyter notebooks. These 
 
 
 ## Recommended online resources
-    - [Background: Introduction to partial differential equations (3Blue1Brown)](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
-    - [Background: Solutions to the heat and diffusion equation (3Blue1Brown)](https://www.youtube.com/watch?v=ToIXSwZ1pJU)
-    - [Video lecture by Eric Wieschaus on *Drosophila development*](https://www.youtube.com/watch?v=Ncxs21KEj0g)
-    - [Video lecture by Eric Wieschaus on *Gradient formation in Drosophila*](https://youtu.be/cpOf5el9GIk)
-    - [Video lecture by Cliff Brangwynne on *Membrane-less organelles and liquid-liquid phase transitions*](https://www.youtube.com/watch?v=AP47mIkd-h0)
-    - [Video by Julie Theriot on *The dynamic cytoskeleton*](https://youtu.be/FIT0fdt6c3Y)
+ - [Background: Introduction to partial differential equations (3Blue1Brown)](https://www.youtube.com/watch?v=ly4S0oi3Yz8)
+ - [Background: Solutions to the heat and diffusion equation (3Blue1Brown)](https://www.youtube.com/watch?v=ToIXSwZ1pJU)
+ - [Video lecture by Eric Wieschaus on *Drosophila development*](https://www.youtube.com/watch?v=Ncxs21KEj0g)
+ - [Video lecture by Eric Wieschaus on *Gradient formation in Drosophila*](https://youtu.be/cpOf5el9GIk)
+ - [Video lecture by Cliff Brangwynne on *Membrane-less organelles and liquid-liquid phase transitions*](https://www.youtube.com/watch?v=AP47mIkd-h0)
+ - [Video by Julie Theriot on *The dynamic cytoskeleton*](https://youtu.be/FIT0fdt6c3Y)
 
 ## Recorded lectures from previous years
 
