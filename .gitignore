@@ -14,4 +14,8 @@
 *.cb
 *.cb2
 .*.lb
+*bbl
+*.blg
+script/main.pdf
+script/_minted-main
 
