@@ -16,6 +16,6 @@
 .*.lb
 *bbl
 *.blg
-script/main.pdf
-script/_minted-main
+lecture-notes/main.pdf
+lecture-notes/_minted-main
 
