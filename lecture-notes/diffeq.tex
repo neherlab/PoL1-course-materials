@@ -127,19 +127,19 @@ Now consider a particle attached to a spring such that the force acting on the p
 This means that for $x>0$, the force is pulling to the left (towards smaller $x$) and in the opposite direction for $x<0$.
 Such a situation is similar to a pendulum, a marble in a bowl, or a particle in a laser trap (optical tweezer) used for single molecule experiments (see Fig.~\ref{fig:harmonic}).
 In addition to this force acting on the particle, there might also be a friction force.
-Friction is typically proportional to the velocity itself $\eta v$.
+Friction is typically proportional to the velocity itself $\xi v$.
 Combining these two contributions, we find that this system is described by
 \begin{equation}
     \label{eq:harmonic}
     \begin{split}
         \frac{dx}{dt} & = v \\
-        \frac{dv}{dt} & = -\frac{1}{m} \left( x\gamma +  \eta v\right)\\
+        \frac{dv}{dt} & = -\frac{1}{m} \left( x\gamma +  \xi v\right)\\
     \end{split}
 \end{equation}
 This system of equations can be solved exactly, but we will explore the solution numerically instead.
 This numerical solution can be down for two variables $x$ and $v$ just like we did it for one variable above, see notebooks for details and Fig.~\ref{fig:harmonic} for the result.
 
-The solution in Fig.~\ref{fig:harmonic} shows the trajectories for different levels of friction $\eta$.
+The solution in Fig.~\ref{fig:harmonic} shows the trajectories for different levels of friction $\xi$.
 This friction is one of the main aspects in which dynamics of large bodies differ from biological system at the micrometer scale.
 For the motion of planets, friction can be neglected.
 For everyday objects, friction is important, but often a perturbation rather than the dominating force. Nevertheless, objects tend to come to a resting states eventually due to friction.
@@ -149,7 +149,7 @@ With increasing friction, the harmonic oscillator goes from eternal oscillations
 \begin{figure}
     \includegraphics[width=0.4\textwidth]{figures/harmonic.pdf}
     \includegraphics[width=0.55\textwidth]{figures/harmonic_traj.pdf}
-    \caption{\label{fig:harmonic}Left: Sketch of a particle moving along direction $x$ in a harmonic potential. Right: Trajectories of the particle at different levels of friction $\eta$.}
+    \caption{\label{fig:harmonic}Left: Sketch of a particle moving along direction $x$ in a harmonic potential. Right: Trajectories of the particle at different levels of friction $\xi$.}
 \end{figure}
 
 
@@ -157,15 +157,15 @@ With increasing friction, the harmonic oscillator goes from eternal oscillations
 On the micrometer scale, masses are tiny and friction is typically completely dominating the dynamics.
 To explore the consequences of this observation, let's rewrite the second part of Eq.\ref{eq:harmonic} (with $F=-\gamma x$) by multiplying both sides by the mass $m$:
 \begin{equation}
-    m\frac{dv}{dt} = F - \eta v
+    m\frac{dv}{dt} = F - \xi v
 \end{equation}
-For very small $m$, the left hand side is close to $0$ and hence it follows that the velocity is $v \approx F/\eta$.
+For very small $m$, the left hand side is close to $0$ and hence it follows that the velocity is $v \approx F/\xi$.
 In other words, the velocity is the instantaneous ratio of force and friction.
 In this over-damped limit, the equation of motion simplfies to
 \begin{equation}
-    \frac{dx}{dt} = \frac{F}{\eta} = -\frac{\gamma x}{\eta}
+    \frac{dx}{dt} = \frac{F}{\xi} = -\frac{\gamma x}{\xi}
 \end{equation}
-whose solution is a simple exponential decay $x(t) = x_0 e^{-t \gamma/\eta}$.
+whose solution is a simple exponential decay $x(t) = x_0 e^{-t \gamma/\xi}$.
 
 \subsection{Friction and Stokes' law}
 \label{sec:stokeslaw}

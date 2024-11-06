@@ -18,6 +18,12 @@ The lecture notes are typeset in Latex. A rendered PDF if available here in this
 Much of the course material is provided in the form of Jupyter notebooks. These notebooks are in the `notebooks` directory and can be viewed and executed in [jupyter](https://jupyter.org/).
 Instructions to use the UniBas Jupyterhub can be found [here](notebooks/unibas_jupyterhub.md).
 
+Alternatively, you can use the [static online version of jupyter](https://jupyterlite.github.io/demo/lab/index.html) available at
+
+https://jupyterlite.github.io/demo/lab/index.html
+
+This will allow you to work on and run jupyter notebooks in you web browser. However, all files you create live in your browser cache which is not persisting. So make sure to explicitly "download" whatever you want to keep.
+
 A small collection of [python and notebook basics](notebooks/python_refresher.ipynb) is provided as well.
 
 ## Recommended online resources
