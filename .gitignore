@@ -19,3 +19,5 @@
 lecture-notes/main.pdf
 lecture-notes/_minted-main
 
+.virtual_documents
+.ipynb_checkpoints
