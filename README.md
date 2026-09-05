@@ -38,41 +38,35 @@ A small collection of [python and notebook basics](notebooks/python_refresher.ip
 
 During the COVID-19 pandemic, this course was not held in person. Instead, lectures were recorded. I provide links to these recordings here in case they might be useful for some. Note, however, that the content of the course is evolving over the years and these recordings from 2020 do not correspond exactly to the current lecture content.
 
-  * The relevant scales: sizes, energies, concentrations
-    - [How big are biological entities? ](https://tube.switch.ch/videos/439dc6b7)
-    - [Volumes and concentrations? ](https://tube.switch.ch/videos/26d61d3c)
-    - [Energies and Forces ](https://tube.switch.ch/videos/5e03fb03)
-    - [Noise and Stochasticity ](https://tube.switch.ch/videos/f031d439)
-    - [Genome sizes ](https://tube.switch.ch/videos/a91a6c31)
-  * Growth processes and differential equations
-    - [Linear and exponential growth](https://tube.switch.ch/videos/ed5794b7)
-    - [Logistic growth](https://tube.switch.ch/videos/fb0c82ca)
-    - [SIR models](https://tube.switch.ch/videos/93848723)
-  * Brownian motion, diffusion, and Fick's law
-    - [Random walks: ](https://tube.switch.ch/videos/f618f8ff)
-    - [Diffusion equation: ](https://tube.switch.ch/videos/438c675b)
-    - [Boundary and initial conditions: ](https://tube.switch.ch/videos/d4024a9f)
-    - [Diffusive transport: ](https://tube.switch.ch/videos/634aedea)
-    - [Stokes-Einstein relation: ](https://tube.switch.ch/videos/63a3bae0)
- *  Polymers
-    - [Introduction and ideal chains: ](https://tube.switch.ch/videos/094db580)
-    - [Stiff polymers: ](https://tube.switch.ch/videos/7179ba6c)
-    - [Polymers under force -- Pulling: ](https://tube.switch.ch/videos/45f301dd)
-    - [Polymers under force -- Pushing: ](https://tube.switch.ch/videos/2fca4c13)
-    - [The dynamic cytoskeleton. ](https://tube.switch.ch/videos/8e3c92c9)
- *  Gene regulation
-    - [Introduction into gene regulation. ](https://tube.switch.ch/videos/8d661dd6)
-    - [Simple models of gene regulation. ](https://tube.switch.ch/videos/2781a72f)
-    - [Elements of dynamics systems. ](https://tube.switch.ch/videos/6e37f331)
-    - [Auto-activation and repression. ](https://tube.switch.ch/videos/c73b3b6e)
-    - [Morphogen gradients -- regulation in space. ](https://tube.switch.ch/videos/b2a4db07)
- *  Liquid-liquid phase transitions
-    - [Phase transitions in biology.](https://tube.switch.ch/videos/ebe62082)
-    - [Simple models of phase transitions, ](https://tube.switch.ch/videos/653b6cd9)
-    - [Properties of membrane-less organells ](https://tube.switch.ch/videos/7842b0da)
-    - [P granules, ](https://tube.switch.ch/videos/0f1e7e8f)
- *  Fidelity, accuracy, and kinetic proof-reading
-    - [Fidelity and accuacy. ](https://tube.switch.ch/videos/ef78391c)
-    - [Kinetic Proofreading. ](https://tube.switch.ch/videos/86457e7f)
+### Older recorded lectures
+
+ - [Arrays in NumPy.mp4](/videos/Arrays%20in%20NumPy.mp4)
+ - [Auto-activation and repression.mp4](/videos/Auto-activation%20and%20repression.mp4)
+ - [Boundary and initial conditions.mp4](/videos/Boundary%20and%20initial%20conditions.mp4)
+ - [Diffusion Equation.mp4](/videos/Diffusion%20Equation.mp4)
+ - [Diffusive Transport and Fick's law.mp4](/videos/Diffusive%20Transport%20and%20Fick's%20law.mp4)
+ - [Elements of dynamical systems.mp4](/videos/Elements%20of%20dynamical%20systems.mp4)
+ - [Extra_ SIR models.mp4](/videos/Extra_%20SIR%20models.mp4)
+ - [Genome sizes.mp4](/videos/Genome%20sizes.mp4)
+ - [Introduction into gene regulation.mp4](/videos/Introduction%20into%20gene%20regulation.mp4)
+ - [Introduction to polymer physics.mp4](/videos/Introduction%20to%20polymer%20physics.mp4)
+ - [Logistic growth.mp4](/videos/Logistic%20growth.mp4)
+ - [Morphogen gradients -- regulation in space.mp4](/videos/Morphogen%20gradients%20--%20regulation%20in%20space.mp4)
+ - [P Granules and their liquid properties.mp4](/videos/P%20Granules%20and%20their%20liquid%20properties.mp4)
+ - [Phase Transitions in Biology.mp4](/videos/Phase%20Transitions%20in%20Biology.mp4)
+ - [Properties of membrane-less organelles.mp4](/videos/Properties%20of%20membrane-less%20organelles.mp4)
+ - [Pulling on polymers.mp4](/videos/Pulling%20on%20polymers.mp4)
+ - [Random Walks.mp4](/videos/Random%20Walks.mp4)
+ - [Relevant length scales in biological systems.mp4](/videos/Relevant%20length%20scales%20in%20biological%20systems.mp4)
+ - [Relevant volumes and concentrations.mp4](/videos/Relevant%20volumes%20and%20concentrations.mp4)
+ - [Simple growth processes.mp4](/videos/Simple%20growth%20processes.mp4)
+ - [Simple models of demixing.mp4](/videos/Simple%20models%20of%20demixing.mp4)
+ - [Simple models of gene regulation.mp4](/videos/Simple%20models%20of%20gene%20regulation.mp4)
+ - [Stiff polymers.mp4](/videos/Stiff%20polymers.mp4)
+ - [Stochastic effects and low copy numbers.mp4](/videos/Stochastic%20effects%20and%20low%20copy%20numbers.mp4)
+ - [Stokes-Einstein relation.mp4](/videos/Stokes-Einstein%20relation.mp4)
+ - [The dynamic cytoskeleton.mp4](/videos/The%20dynamic%20cytoskeleton.mp4)
+ - [Typical energy scales and forces.mp4](/videos/Typical%20energy%20scales%20and%20forces.mp4)
+ - [Units, dimensions, and laws of physics.mp4](/videos/Units,%20dimensions,%20and%20laws%20of%20physics.mp4)
 
 
